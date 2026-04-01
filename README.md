@@ -52,8 +52,6 @@ Running... Press ESC to stop.
 # Press ESC to safely exit
 ```
 
-![Workflow](https://via.placeholder.com/800x400/1a1a1a/00FFFF?text=Run+Admin→Type+Anywhere→ESC+Exit→Check+File)
-
 ### Live Demo Flow
 ```
 1. python keylogger.py (Run as Admin)
